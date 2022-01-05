@@ -1,2 +1,2 @@
-# php-blog
+# blogphp
 Blog written on PHP
